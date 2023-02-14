@@ -2761,3 +2761,4 @@
 2022/03/14 21:47:52 [error] 177736#211436: *3 CreateFile() "D:\lesson\nginx-1.18.0/html/hmdp/js/axios.min.map" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /js/axios.min.map HTTP/1.1", host: "localhost:8080"
 2022/03/14 21:48:30 [notice] 211132#211144: signal process started
 2023/02/14 14:50:16 [error] 90324#91896: *1 CreateFile() "D:\IDEA_Project\nginx-1.18.0/html/hmdp/shop-type/list" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /shop-type/list HTTP/1.1", host: "127.0.0.1:8080"
+2023/02/14 21:31:27 [emerg] 24304#16604: CreateDirectory() "E:\project\java-project\redis-hmdp\src\html\nginx-1.18.0/temp/client_body_temp" failed (3: The system cannot find the path specified)
